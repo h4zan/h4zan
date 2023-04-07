@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+✨ My name is Hazan, an aspiring frontend developer from Stockholm. 
+
+🔭 Currently, I am seeking a work placement for my first internship from September 25th to December 3rd 2023, 
+    during weeks 39-48.
+
+💌 If you have any advice or feedback, please feel free to contact me.
