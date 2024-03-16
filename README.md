@@ -4,7 +4,7 @@
   ◾▪️ I'm an aspiring Front End Developer based in Stockholm.<br>
   ◾▪️ <a href="https://hazanyigit.netlify.app/" target="_blank">My portfolio website </a>.<br>
   ◾▪️ More projects are on the horizon – stay tuned!<br>
-  ◾▪️ Contact: hazan.yigit@medieinstitutet.se</p>
+  ◾▪️ hazan.yigit@medieinstitutet.se</p>
 
 ##
 
