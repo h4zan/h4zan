@@ -2,7 +2,7 @@
 ### <h3  align="left">  ✦ Hi there  ˙ᵕ˙ </h3>
 <p align="left"> 
   ◾▪️ I'm an aspiring Front End Developer based in Stockholm.<br>
-  ◾▪️ My portfolio website is available at <a href="https://hazanyigit.netlify.app/" target="_blank">here</a>.<br>
+  ◾▪️ <a href="https://hazanyigit.netlify.app/" target="_blank">My portfolio website </a>.<br>
   ◾▪️ More projects are on the horizon – stay tuned!<br>
   ◾▪️ Contact: hazan.yigit@medieinstitutet.se</p>
 
